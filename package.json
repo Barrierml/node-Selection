@@ -15,7 +15,11 @@
   ],
   "files": [
     "index.d.ts",
-    "index.js"
+    "index.js",
+    "node-Selection.darwin-arm64.node",
+    "node-Selection.darwin-x64.node",
+    "node-Selection.win32-arm64-msvc.node",
+    "node-Selection.win32-x64-msvc.node"
   ],
   "napi": {
     "name": "node-Selection",
